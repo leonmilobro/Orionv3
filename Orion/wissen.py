@@ -1,0 +1,22 @@
+wissen = {
+    "was ist deutschland": "Deutschland ist ein Land in Mitteleuropa.",
+    "was ist frankreich": "Frankreich ist ein Land in Westeuropa.",
+    "was ist die sonne": "Die Sonne ist ein Stern im Zentrum unseres Sonnensystems.",
+    "was ist der mond": "Der Mond ist der natürliche Satellit der Erde.",
+    "wie viele planeten gibt es": "Es gibt 8 Planeten in unserem Sonnensystem.",
+    "wer war albert einstein": "Albert Einstein war ein Physiker und entwickelte die Relativitätstheorie.",
+    "wer war isaac newton": "Isaac Newton war ein Mathematiker und Physiker.",
+    "wer hat das telefon erfunden": "Alexander Graham Bell wird häufig als Erfinder des Telefons genannt.",
+    "was ist python": "Python ist eine Programmiersprache.",
+    "was ist eine ki": "Eine KI ist ein Computerprogramm, das Aufgaben lösen kann, für die normalerweise menschliche Intelligenz nötig ist.",
+    "wie viele tage hat ein jahr": "Ein normales Jahr hat 365 Tage.",
+    "wie viele stunden hat ein tag": "Ein Tag hat 24 Stunden.",
+    "wie viele minuten hat eine stunde": "Eine Stunde hat 60 Minuten.",
+    "wie viele sekunden hat eine minute": "Eine Minute hat 60 Sekunden.",
+    "was ist wasser": "Wasser besteht aus zwei Wasserstoffatomen und einem Sauerstoffatom (H₂O).",
+    "was ist die erde": "Die Erde ist der dritte Planet von der Sonne.",
+    "wer war leonardo da vinci": "Leonardo da Vinci war Künstler, Erfinder und Wissenschaftler.",
+    "wer war mozart": "Wolfgang Amadeus Mozart war ein berühmter Komponist.",
+    "was ist ein computer": "Ein Computer verarbeitet Daten und führt Programme aus.",
+    "was ist das internet": "Das Internet verbindet Millionen von Computern weltweit."
+}
